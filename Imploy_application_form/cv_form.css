@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    background-color: #1d293a;
+}
+
+.info{
+    justify-content: center;
+    transform: translate(14%,10%);
+    width: 1200px;
+    height: 100%;
+    color: rgb(0, 255, 255);
+    
+}
+.form_name{
+    transform: translate(45%,50%);
+    color: rgb(12, 241, 241);
+    /* color: rgb(0, 164, 120); */
+}
+.white{
+    color: white;
+}
+
+.name{
+    padding-bottom: 5%;
+}
+.phone_number{
+    padding-bottom: 5%;
+}
+.email{
+    padding-bottom: 5%;
+}
+.address{
+    padding-bottom: 5%;
+}
+.emp_status{
+    padding-bottom: 5%;
+}
+.Interest{
+    padding-bottom: 5%;
+}
+.upload_resume{
+    padding-bottom: 5%;
+}
+.apply{
+    padding-bottom: 5%;
+}
+.row{
+    padding-top: 3%;
+}

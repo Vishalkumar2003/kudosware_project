@@ -1,0 +1,76 @@
+:root {
+
+    --primary-first-color: #e7eaf6;
+    --primary-second-color: #a2a8d3;
+    --primary-third-color: #38598b;
+    --primary-fourth-color: #164670;
+    --secondary-first-color: #f8c025;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    /* font-family: montserrat;
+    background: linear-gradient(0deg,
+            var(--primary-second-color) -50%,
+            var(--primary-fourth-color) 50%);
+    height: 100vh; */
+    /* overflow: hidden; */
+    background-color: #1d293a;
+}
+input{
+    padding: 7px;
+    background: white;
+    border: 2px solid rgb(0, 164, 120);
+    border-radius: 7px;
+    padding-right: 20px;
+}
+.center{
+    position:absolut;
+    top: 50%;
+    left: 50%;
+    transform: translate(140%,65%);
+    width: 400px;
+    background: rgb(222, 222, 222);
+    border-radius: 10px;
+}
+.center{
+    text-align: center;
+    padding: 0 0 30px 0;
+    border-bottom: 1px solid silver ;
+   
+    
+}
+.center h1{
+    
+    padding-top: 6px;
+    padding-bottom: 10px;
+    
+}
+.container{
+    padding-bottom: 10px;
+}
+.container_2{
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.container_3 .psw {
+   padding-right: 60px;
+   text-size-adjust: 0px;
+}
+.container_3 .jbd{
+    padding-left: 60px;
+    text-size-adjust: 0px;
+}
+h2{
+    padding-top: 15px;
+    padding-bottom: 25px;
+    /* border: 2px solid rgb(224, 224, 224); */
+    background:linear-gradient(120deg,#1a878f,#0482d0);
+    
+}
+/* .name-head{
+    color: rgb(255, 255, 255);
+} */
